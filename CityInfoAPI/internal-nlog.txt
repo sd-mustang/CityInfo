@@ -1,0 +1,218 @@
+2018-05-13 13:31:57.5153 Info Message Template Auto Format enabled
+2018-05-13 13:31:57.5349 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-13 13:31:57.6119 Info Adding target File Target[logfile]
+2018-05-13 13:31:57.6239 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-13 13:31:57.6422 Info Found 16 configuration items
+2018-05-13 13:33:14.0751 Info Message Template Auto Format enabled
+2018-05-13 13:33:14.1056 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-13 13:33:14.2446 Info Adding target File Target[logfile]
+2018-05-13 13:33:14.2596 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-13 13:33:14.2888 Info Found 16 configuration items
+2018-05-13 13:37:50.8580 Info Message Template Auto Format enabled
+2018-05-13 13:37:50.8778 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-13 13:37:50.9632 Info Adding target File Target[logfile]
+2018-05-13 13:37:50.9632 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-13 13:37:50.9924 Info Found 16 configuration items
+2018-05-13 13:39:31.3382 Info Message Template Auto Format enabled
+2018-05-13 13:39:31.3558 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-13 13:39:31.4282 Info Adding target File Target[logfile]
+2018-05-13 13:39:31.4398 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-13 13:39:31.4641 Info Found 16 configuration items
+2018-05-13 13:42:22.5704 Info Message Template Auto Format enabled
+2018-05-13 13:42:22.5881 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-13 13:42:22.6628 Info Adding target File Target[logfile]
+2018-05-13 13:42:22.6740 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-13 13:42:22.6938 Info Found 16 configuration items
+2018-05-13 13:44:31.7146 Info Message Template Auto Format enabled
+2018-05-13 13:44:31.7400 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-13 13:44:31.8469 Info Adding target File Target[logfile]
+2018-05-13 13:44:31.8604 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-13 13:44:31.8962 Info Found 16 configuration items
+2018-05-13 13:52:22.7400 Info Message Template Auto Format enabled
+2018-05-13 13:52:22.7625 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-13 13:52:22.8379 Info Adding target File Target[logfile]
+2018-05-13 13:52:22.8379 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-13 13:52:22.8657 Info Found 16 configuration items
+2018-05-13 14:06:15.5958 Info Message Template Auto Format enabled
+2018-05-13 14:06:15.6182 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-13 14:06:15.7137 Info Adding target File Target[logfile]
+2018-05-13 14:06:15.7286 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-13 14:06:15.7582 Info Found 16 configuration items
+2018-05-19 10:36:13.1529 Info Message Template Auto Format enabled
+2018-05-19 10:36:13.2009 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 10:36:13.3992 Info Adding target File Target[logfile]
+2018-05-19 10:36:13.4088 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 10:36:13.4403 Info Found 16 configuration items
+2018-05-19 10:49:02.1039 Info Message Template Auto Format enabled
+2018-05-19 10:49:02.1252 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 10:49:02.2197 Info Adding target File Target[logfile]
+2018-05-19 10:49:02.2352 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 10:49:02.2572 Info Found 16 configuration items
+2018-05-19 11:17:32.7272 Info Message Template Auto Format enabled
+2018-05-19 11:17:32.7610 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 11:17:33.0133 Info Adding target File Target[logfile]
+2018-05-19 11:17:33.0315 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 11:17:33.1311 Info Found 16 configuration items
+2018-05-19 11:24:01.1982 Info Message Template Auto Format enabled
+2018-05-19 11:24:01.2273 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 11:24:01.3787 Info Adding target File Target[logfile]
+2018-05-19 11:24:01.3931 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 11:24:01.4295 Info Found 16 configuration items
+2018-05-19 12:03:45.3480 Info Message Template Auto Format enabled
+2018-05-19 12:03:45.3699 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 12:03:45.4595 Info Adding target File Target[logfile]
+2018-05-19 12:03:45.4688 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 12:03:45.4908 Info Found 16 configuration items
+2018-05-19 12:26:26.8803 Info Message Template Auto Format enabled
+2018-05-19 12:26:26.9171 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 12:26:27.0114 Info Adding target File Target[logfile]
+2018-05-19 12:26:27.0228 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 12:26:27.0419 Info Found 16 configuration items
+2018-05-19 12:52:47.1325 Info Message Template Auto Format enabled
+2018-05-19 12:52:47.1961 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 12:52:47.3134 Info Adding target File Target[logfile]
+2018-05-19 12:52:47.3134 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 12:52:47.3451 Info Found 16 configuration items
+2018-05-19 12:57:30.3133 Info Message Template Auto Format enabled
+2018-05-19 12:57:30.3374 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 12:57:30.4295 Info Adding target File Target[logfile]
+2018-05-19 12:57:30.4408 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 12:57:30.4651 Info Found 16 configuration items
+2018-05-19 14:05:34.4091 Info Message Template Auto Format enabled
+2018-05-19 14:05:34.4310 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 14:05:34.5135 Info Adding target File Target[logfile]
+2018-05-19 14:05:34.5230 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 14:05:34.5425 Info Found 16 configuration items
+2018-05-19 14:14:14.4428 Info Message Template Auto Format enabled
+2018-05-19 14:14:14.4589 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 14:14:14.5167 Info Adding target File Target[logfile]
+2018-05-19 14:14:14.5167 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\NLog.config...
+2018-05-19 14:14:14.5435 Info Found 16 configuration items
+2018-05-19 14:14:14.5666 Info Configuration initialized.
+2018-05-19 14:14:14.7602 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.4.7700. Product version: 4.5.4.
+2018-05-19 14:14:17.4573 Info Shutting down logging...
+2018-05-19 14:14:17.4844 Info Logger has been shut down.
+2018-05-19 14:19:11.4193 Info Message Template Auto Format enabled
+2018-05-19 14:19:11.4665 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 14:19:11.6087 Info Adding target File Target[logfile]
+2018-05-19 14:19:11.6202 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 14:19:11.6480 Info Found 16 configuration items
+2018-05-19 14:23:17.0547 Info Message Template Auto Format enabled
+2018-05-19 14:23:17.0714 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 14:23:17.1312 Info Adding target File Target[logfile]
+2018-05-19 14:23:17.1312 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\NLog.config...
+2018-05-19 14:23:17.1573 Info Found 16 configuration items
+2018-05-19 14:23:17.1829 Info Configuration initialized.
+2018-05-19 14:23:17.1886 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.4.7700. Product version: 4.5.4.
+2018-05-19 14:23:18.9685 Info Shutting down logging...
+2018-05-19 14:23:19.0456 Info Logger has been shut down.
+2018-05-19 14:24:05.4992 Info Message Template Auto Format enabled
+2018-05-19 14:24:05.5739 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 14:24:05.7543 Info Adding target File Target[logfile]
+2018-05-19 14:24:05.7792 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 14:24:05.8279 Info Found 16 configuration items
+2018-05-19 14:34:28.7581 Info Message Template Auto Format enabled
+2018-05-19 14:34:28.7912 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 14:34:28.9034 Info Adding target File Target[logfile]
+2018-05-19 14:34:28.9259 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 14:34:28.9494 Info Found 16 configuration items
+2018-05-19 14:39:16.9474 Info Message Template Auto Format enabled
+2018-05-19 14:39:16.9668 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 14:39:17.0193 Info Adding target File Target[logfile]
+2018-05-19 14:39:17.0193 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 14:39:17.0476 Info Found 16 configuration items
+2018-05-19 14:48:55.8747 Info Message Template Auto Format enabled
+2018-05-19 14:48:55.8974 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 14:48:56.0545 Info Adding target File Target[logfile]
+2018-05-19 14:48:56.0685 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 14:48:56.0986 Info Found 16 configuration items
+2018-05-19 15:00:16.2895 Info Message Template Auto Format enabled
+2018-05-19 15:00:16.3116 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 15:00:16.3776 Info Adding target File Target[logfile]
+2018-05-19 15:00:16.3776 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 15:00:16.4108 Info Found 16 configuration items
+2018-05-19 15:16:46.6843 Info Message Template Auto Format enabled
+2018-05-19 15:16:46.7335 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 15:16:46.9058 Info Adding target File Target[logfile]
+2018-05-19 15:16:46.9230 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 15:16:46.9599 Info Found 16 configuration items
+2018-05-19 15:20:13.1494 Info Message Template Auto Format enabled
+2018-05-19 15:20:13.1824 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 15:20:13.3492 Info Adding target File Target[logfile]
+2018-05-19 15:20:13.3654 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 15:20:13.4002 Info Found 16 configuration items
+2018-05-19 16:01:02.8020 Info Message Template Auto Format enabled
+2018-05-19 16:01:02.8248 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 16:01:02.9088 Info Adding target File Target[logfile]
+2018-05-19 16:01:02.9088 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 16:01:02.9492 Info Found 16 configuration items
+2018-05-19 16:02:46.0345 Info Message Template Auto Format enabled
+2018-05-19 16:02:46.0505 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 16:02:46.1126 Info Adding target File Target[logfile]
+2018-05-19 16:02:46.1126 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 16:02:46.1406 Info Found 16 configuration items
+2018-05-19 16:03:16.9490 Info Message Template Auto Format enabled
+2018-05-19 16:03:16.9842 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 16:03:17.1509 Info Adding target File Target[logfile]
+2018-05-19 16:03:17.1771 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 16:03:17.2211 Info Found 16 configuration items
+2018-05-19 16:05:37.6511 Info Message Template Auto Format enabled
+2018-05-19 16:05:37.6775 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-19 16:05:37.8031 Info Adding target File Target[logfile]
+2018-05-19 16:05:37.8162 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-19 16:05:37.8449 Info Found 16 configuration items
+2018-05-21 07:37:08.4095 Info Message Template Auto Format enabled
+2018-05-21 07:37:08.4327 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-21 07:37:08.5240 Info Adding target File Target[logfile]
+2018-05-21 07:37:08.5356 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-21 07:37:08.5548 Info Found 16 configuration items
+2018-05-21 07:48:34.0853 Info Message Template Auto Format enabled
+2018-05-21 07:48:34.1092 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-21 07:48:34.2846 Info Adding target File Target[logfile]
+2018-05-21 07:48:34.2949 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-21 07:48:34.3152 Info Found 16 configuration items
+2018-05-22 07:41:46.2469 Info Message Template Auto Format enabled
+2018-05-22 07:41:46.2839 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-22 07:41:46.6395 Info Adding target File Target[logfile]
+2018-05-22 07:41:46.6537 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-22 07:41:46.6944 Info Found 16 configuration items
+2018-05-22 07:54:32.3990 Info Message Template Auto Format enabled
+2018-05-22 07:54:32.4220 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-22 07:54:32.5941 Info Adding target File Target[logfile]
+2018-05-22 07:54:32.6061 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-22 07:54:32.6290 Info Found 16 configuration items
+2018-05-23 18:19:13.8774 Info Message Template Auto Format enabled
+2018-05-23 18:19:13.8973 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-23 18:19:13.9784 Info Adding target File Target[logfile]
+2018-05-23 18:19:13.9872 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-23 18:19:14.0056 Info Found 16 configuration items
+2018-05-23 18:26:13.8720 Info Message Template Auto Format enabled
+2018-05-23 18:26:13.8911 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-23 18:26:13.9787 Info Adding target File Target[logfile]
+2018-05-23 18:26:13.9885 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-23 18:26:14.0065 Info Found 16 configuration items
+2018-05-23 18:59:38.9562 Info Message Template Auto Format enabled
+2018-05-23 18:59:38.9868 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-23 18:59:39.0696 Info Adding target File Target[logfile]
+2018-05-23 18:59:39.0696 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-23 18:59:39.0980 Info Found 16 configuration items
+2018-05-23 19:18:43.2795 Info Message Template Auto Format enabled
+2018-05-23 19:18:43.3018 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-23 19:18:43.3875 Info Adding target File Target[logfile]
+2018-05-23 19:18:43.3968 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-23 19:18:43.4150 Info Found 16 configuration items
+2018-05-23 19:30:01.4887 Info Message Template Auto Format enabled
+2018-05-23 19:30:01.5117 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-23 19:30:01.6111 Info Adding target File Target[logfile]
+2018-05-23 19:30:01.6111 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-23 19:30:01.6391 Info Found 16 configuration items
+2018-05-23 19:39:22.7744 Info Message Template Auto Format enabled
+2018-05-23 19:39:22.7999 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-23 19:39:22.8841 Info Adding target File Target[logfile]
+2018-05-23 19:39:22.8964 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-23 19:39:22.9139 Info Found 16 configuration items
+2018-05-23 19:51:07.2091 Info Message Template Auto Format enabled
+2018-05-23 19:51:07.2334 Info Loading assembly: NLog.Web.AspNetCore
+2018-05-23 19:51:07.3102 Info Adding target File Target[logfile]
+2018-05-23 19:51:07.3208 Info Configured from an XML element in C:\Users\joshb\source\repos\CityInfo\CityInfoAPI\bin\Debug\netcoreapp2.0\nlog.config...
+2018-05-23 19:51:07.3480 Info Found 16 configuration items
